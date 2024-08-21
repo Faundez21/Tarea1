@@ -1,0 +1,14 @@
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\bin\Debug\net8.0\Tarea1.exe
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\bin\Debug\net8.0\Tarea1.deps.json
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\bin\Debug\net8.0\Tarea1.runtimeconfig.json
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\bin\Debug\net8.0\Tarea1.dll
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\bin\Debug\net8.0\Tarea1.pdb
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.AssemblyInfoInputs.cache
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.AssemblyInfo.cs
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.dll
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\obj\Debug\net8.0\refint\Tarea1.dll
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.pdb
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.genruntimeconfig.cache
+C:\Users\Faundez21\Documents\Programacion\Tarea1\Tarea1\obj\Debug\net8.0\ref\Tarea1.dll
