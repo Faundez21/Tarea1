@@ -1,14 +1,22 @@
-﻿using System;
+using System;
 
 public interface IEdificio
 {
     void Construir();
 }
 
-public interface ICastillo : IEdificio { }
-public interface ITorre : IEdificio { }
-public interface IMuralla : IEdificio { }
+public interface ICastillo : IEdificio 
+{ 
 
+}
+public interface ITorre : IEdificio 
+{
+
+}
+public interface IMuralla : IEdificio 
+{ 
+
+}
 
 public class CastilloA : ICastillo
 {
@@ -76,13 +84,13 @@ public class FabricaDeMurallas : IFabricaDeMurallas
 }
 
 
-public class Cliente
+public class Jugador
 {
     private readonly ICastillo _castillo;
     private readonly ITorre _torre;
     private readonly IMuralla _muralla;
 
-    public Cliente(IFabricaDeCastillos fabricaCastillos, IFabricaDeTorres fabricaTorres, IFabricaDeMurallas fabricaMurallas)
+    public Jugador(IFabricaDeCastillos fabricaCastillos, IFabricaDeTorres fabricaTorres, IFabricaDeMurallas fabricaMurallas)
     {
         _castillo = fabricaCastillos.CrearCastillo();
         _torre = fabricaTorres.CrearTorre();
@@ -105,7 +113,7 @@ public class Programa
         IFabricaDeTorres fabricaTorres = new FabricaDeTorres();
         IFabricaDeMurallas fabricaMurallas = new FabricaDeMurallas();
 
-        Cliente cliente = new Cliente(fabricaCastillos, fabricaTorres, fabricaMurallas);
-        cliente.Construir();
+        Jugador jugador = new Jugador(fabricaCastillos, fabricaTorres, fabricaMurallas);
+        jugador.Construir();
     }
 }
